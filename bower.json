@@ -1,0 +1,27 @@
+{
+  "name": "mern-stack",
+  "description": "React",
+  "main": "",
+  "authors": [
+    "Y.NANTHACHAI <nooudon@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "M",
+    "E",
+    "R",
+    "N"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.1.0"
+  }
+}
